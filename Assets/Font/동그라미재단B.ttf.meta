@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e0566fb14e2494d44948781725c85bd7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ThecircleB
+  fontNames:
+  - ThecircleB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: fa63b5fdf8f13824a81b0c993c70409f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
